@@ -3,7 +3,7 @@
 Aplikasi microservice berbasis **Go 1.22** dan **Chi Router** yang dirancang sebagai target demonstrasi pipeline CI/CD Jenkins, GitOps ArgoCD, dan Envoy Gateway API.
 
 ---
-lets gooow
+lets gooow coba lagi yuk seru seru 
 ## 🚀 Endpoint API
 
 | Method | Endpoint | Deskripsi | Contoh Response |
